@@ -3,8 +3,8 @@ package announcement
 import (
 	"context"
 	"github.com/golang/mock/gomock"
-	"hoppii-api/pkg/networking"
-	"hoppii-api/pkg/user"
+	"github.com/isso-719/hoppii-api/pkg/networking"
+	"github.com/isso-719/hoppii-api/pkg/user"
 	"reflect"
 	"testing"
 )

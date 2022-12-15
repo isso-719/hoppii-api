@@ -1,4 +1,4 @@
-module hoppii-api
+module github.com/isso-719/hoppii-api
 
 go 1.19
 

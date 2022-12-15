@@ -3,8 +3,8 @@ package announcement
 //go:generate mockgen -source=service.go -destination=service_mock.go -package=announcement
 
 import (
-	"hoppii-api/pkg/networking"
-	"hoppii-api/pkg/user"
+	"github.com/isso-719/hoppii-api/pkg/networking"
+	"github.com/isso-719/hoppii-api/pkg/user"
 )
 
 type IFAnnouncementService interface {

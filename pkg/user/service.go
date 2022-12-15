@@ -3,7 +3,7 @@ package user
 //go:generate mockgen -source=service.go -destination=service_mock.go -package=user
 
 import (
-	"hoppii-api/pkg/networking"
+	"github.com/isso-719/hoppii-api/pkg/networking"
 	"net/http"
 )
 

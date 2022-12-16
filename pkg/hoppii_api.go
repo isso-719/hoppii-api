@@ -1,4 +1,4 @@
-package hoppii_api
+package pkg
 
 import (
 	"github.com/isso-719/hoppii-api/pkg/announcement"
